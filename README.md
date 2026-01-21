@@ -5,13 +5,13 @@ This is the official [Homebrew](https://brew.sh) tap for **streb** — a CLI too
 ## Installation
 
 ```bash
-brew install stefantrockel/streb/streb
+brew install adesso-ai/streb/streb
 ```
 
 Or add the tap first:
 
 ```bash
-brew tap stefantrockel/streb
+brew tap adesso-ai/streb
 brew install streb
 ```
 
@@ -37,7 +37,7 @@ brew upgrade streb
 
 Found a bug? Have a feature request?
 
-→ **[Open an issue](https://github.com/StefanTrockel/homebrew-streb/issues)**
+→ **[Open an issue](https://github.com/adesso-ai/homebrew-streb/issues)**
 
 ## Links
 
